@@ -26,7 +26,8 @@ Best practices, recommendations and self-check scripts to help to validate the s
 
 
 ## Sites with more information about Well-Known vulnerabilities and their fixes
-- https://medium.com/hackernoon/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148
+- Consensys official page for SCs vulnerabilities: https://consensys.github.io/smart-contract-best-practices/known_attacks/
+- A good article to start learning about SCs vulnerabilities: https://medium.com/hackernoon/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148
 
 
 
